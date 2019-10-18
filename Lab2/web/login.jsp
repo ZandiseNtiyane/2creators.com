@@ -12,7 +12,7 @@
         <title>Lab 2</title>
     </head>
     <body>
-       <div>Walter Sisulu University Gym</div>
+       <div>Please login with Ck as user name and password</div>
         <form method="POST" action="Login">
             <input type="text" name="username" value="" size="30" placeholder="Username" required/><br/>
            <input type="password" name="password" value="" size="30" placeholder="Password" required/><br/>
